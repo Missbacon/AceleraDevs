@@ -21,6 +21,7 @@ O AceleraDevs possui os seguintes recursos para apoiar a minha  jornada de desen
 - **HardSkills:** Desenvolvedores Java experientes que me orientarão em minha jornada.
 - **SoftSkills:** R&S experientes que me orientarão em minha jornada.
 
+em construção...
 
 
 
